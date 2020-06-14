@@ -1,6 +1,6 @@
 # ds-in-js
 This project gives basic implementations of most of the Data structures in javascript. I am practicing the datastructures from past few days and writing my own implementations. if you feel any of the implementations need further optimizations. feel free to make the modifications and give me PR.
-Still there are few more Algos that i need to study before i implements and below is the list of Algos that would be pushed in mt next commit.
+Still there are few more Algos that i need to study before i implement and below is the list of Algos that would be pushed in my next commit.
 
 * AVLTrees
 * BTrees
